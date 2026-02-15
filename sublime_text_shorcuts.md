@@ -1,4 +1,5 @@
-## This shorcuts are for a Mac system
+# Sublime Text 4 Cheat Sheet
+## This works for Mac only
 
 
 | Shortcut      | Description | 
@@ -11,7 +12,7 @@
 | (Cmd + Shift + L) right arrow | to the end of the line text |
 | Cmd + left arrow | to the beginning of the line text|
 | Cmd + right arrow| to the end of the line text |
-| | | |
+| Ctrl + Shift + W | HTML wrap what is highlighted | 
 | | | |
 | | | |
 | | | |
